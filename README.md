@@ -1,6 +1,6 @@
 # Keep a lil inventory on death
 
-A minecraft that keeps the tools and food, drops the XP and building blocks. Only needed on the server. Requires `/gamerule keepInventory true`.
+A minecraft that keeps the tools and food, drops full XP and building blocks exactly where you died (no spread). Only needed on the server. Requires `/gamerule keepInventory true`.
 
 Similar to [keep-some-inventory](https://modrinth.com/datapack/keep-some-inventory) except not a datapack and includes a few more items.
 
