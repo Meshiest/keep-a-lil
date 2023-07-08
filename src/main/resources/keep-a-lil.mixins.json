@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "io.reheatedcake.keepalil.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"PlayerEntityMixin",
+		"PlayerInventoryMixin",
+		"ServerPlayerEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
