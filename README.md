@@ -8,6 +8,7 @@ Similar to [keep-some-inventory](https://modrinth.com/datapack/keep-some-invento
 
 - Uncommon or greater rarity (Items with colored names)
 - Enchantables
+- Shulker boxes (And [Reinforced Shulker Boxes](https://modrinth.com/mod/reinforced-shulker-boxes))
 - Items with durability bars
 - Items with a use action (potions, milk, horns)
 - Food
